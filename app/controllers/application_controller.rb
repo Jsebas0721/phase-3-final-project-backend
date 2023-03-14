@@ -34,9 +34,24 @@ class ApplicationController < Sinatra::Base
     areas = Area.create(
       area_name: params[:area_name]
     )
+    areas.to_json
   end
 
-  
+  patch "/positions/:id" do
+    position = Position.find(params[:id])
+    position.update(
+      position_name: params[:position_name]
+      salary: params[:salary]
+    )
+    position.to_json
+  end
+
+  delete "/positions/:id" do
+    
+  end
+
+
+
 
 
 
