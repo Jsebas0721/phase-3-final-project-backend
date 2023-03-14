@@ -47,12 +47,9 @@ class ApplicationController < Sinatra::Base
   end
 
   delete "/positions/:id" do
-    
+    position = Position.find(params[:id])
+    position.destroy
+    position.to_json
   end
-
-
-
-
-
 
 end
