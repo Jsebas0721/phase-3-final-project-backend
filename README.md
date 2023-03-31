@@ -52,6 +52,10 @@ $ npm start
 
 ![searchposition](https://user-images.githubusercontent.com/108071188/229161504-57c326df-ed0f-4fd4-a6b4-6e7be95b9494.png)
 
+- Update or Delete position
+
+![updatedeleteposition](https://user-images.githubusercontent.com/108071188/229162080-f04259e3-805e-48b6-a405-5ca4f899de4a.png)
+
 
 ## Contributing
 
