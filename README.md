@@ -8,7 +8,8 @@ Amazon Jobs is an application model for the current available jobs of a company,
 
 ## Installation
 
-1. Open up [GitHub Repository](https://github.com/Jsebas0721/final-project-eyeware-shop) in your Web Browser.
+1. Open up **Back-end**[GitHub Repository](https://github.com/Jsebas0721/phase-3-final-project-backend) in your Web Browser.
+2. Open up **Front-end**[GitHub Repository](https://github.com/Jsebas0721/phase-3-final-project-frontend) in your Web Browser.
 2. Fork and Clone the Repository to your machine:
     -Click on the green button Code(Located in the top right of the Repository)
     -Make sure the SSH tab is selected
