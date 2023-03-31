@@ -44,9 +44,10 @@ $ npm start
 
 ![navigatetopositions](https://user-images.githubusercontent.com/108071188/229160111-fa5f5e52-ce7f-42cd-b948-9f26fe16b92f.png)
 
-- Add a new frame or Add to Cart.
+- Add a new position in the Area.
 
-![Add frame](https://user-images.githubusercontent.com/108071188/210834932-204264b3-f609-41c8-b38f-237950b1ecf0.png)
+![addposition](https://user-images.githubusercontent.com/108071188/229160759-15ef8d39-6b2a-4e10-aa40-2179f825f80a.png)
+
 
 - Revome frame from Cart
 
