@@ -23,14 +23,13 @@ cd ~/folder-path
 ```
 $ git clone paste-repo-URL
 ```
-6. Navigate to the Repository's folder using the **cd** command. 
+6. Navigate to both Repository's folder using the **cd** command. 
 
-7. Connect to the json server and Access the data by running the following command:
+7. Within the **Back-end** Repository's folder start the server by running the following command:
 ```
-$ json-server --watch db.json
+$ bundle exec rake server
 ``` 
-8. Open up a different Terminal window and navigate to the Repository's folder
-9. Run the following command:
+8.  Within the **Front-end** Repository's folder start the Application by running the following command:
 ```
 $ npm start
 ```
