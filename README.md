@@ -19,11 +19,10 @@ Before you start, make sure you have opened two different terminals. *IMPORTANT:
 ```bash
 cd ~/folder-path
 ```
-5. Paste the URL that you Copied and Clone the Repo. Enter the following command: 
+5. Paste the URL that you Copied and Clone the Repo. Enter the following command: (Repeat Steps 3 - 5 for both Repositories)
 ```
 $ git clone paste-repo-URL
 ```
-(Repeat Steps 3 - 5 for both Repositories)
 6. Navigate to the Repository's folder using the **cd** command. 
 
 7. Connect to the json server and Access the data by running the following command:
