@@ -8,6 +8,7 @@ Amazon Jobs is an application model for the current available jobs of a company,
 
 ## Installation
 
+Before you start, make sure you open two different terminals, *IMPORTANT:* clone both Repositories in the same directory.
 1. Open up **Back-end** [GitHub Repository](https://github.com/Jsebas0721/phase-3-final-project-backend) in your Web Browser.
 2. Open up **Front-end** [GitHub Repository](https://github.com/Jsebas0721/phase-3-final-project-frontend) in your Web Browser.
 3. Fork and Clone both Repositories to your machine:
@@ -22,8 +23,7 @@ cd ~/folder-path
 ```
 $ git clone paste-repo-URL
 ```
-6. Navigate to the Repository's folder using the **cd** command 
--(Repeat Steps 3 - 6 for both Repositories)
+6. Navigate to the Repository's folder using the **cd** command. (Repeat Steps 3 - 6 for both Repositories)
 
 7. Connect to the json server and Access the data by running the following command:
 ```
