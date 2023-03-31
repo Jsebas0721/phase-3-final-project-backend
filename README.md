@@ -8,27 +8,29 @@ Amazon Jobs is an application model for the current available jobs of a company,
 
 ## Installation
 
-1. Open up **Back-end**[GitHub Repository](https://github.com/Jsebas0721/phase-3-final-project-backend) in your Web Browser.
-2. Open up **Front-end**[GitHub Repository](https://github.com/Jsebas0721/phase-3-final-project-frontend) in your Web Browser.
-2. Fork and Clone the Repository to your machine:
+1. Open up **Back-end** [GitHub Repository](https://github.com/Jsebas0721/phase-3-final-project-backend) in your Web Browser.
+2. Open up **Front-end** [GitHub Repository](https://github.com/Jsebas0721/phase-3-final-project-frontend) in your Web Browser.
+3. Fork and Clone both Repositories to your machine:
     -Click on the green button Code(Located in the top right of the Repository)
     -Make sure the SSH tab is selected
     -Copy the URL link of the Repository
-3. Open up your local machine terminal and navigate to the directory where you want to clone the Repository 
+4. Open up your local machine terminal and navigate to the directory where you want to clone the Repositories
 ```bash
 cd ~/folder-path
 ```
-4. Paste the URL that you Copied and Clone the Repo. Enter the following command: 
+5. Paste the URL that you Copied and Clone the Repo. Enter the following command: 
 ```
 $ git clone paste-repo-URL
 ```
-5. Navigate to the Repository's folder using the **cd** command
-6. Connect to the json server and Access the data by running the following command:
+6. Navigate to the Repository's folder using the **cd** command 
+-(Repeat Steps 3 - 6 for both Repositories)
+
+7. Connect to the json server and Access the data by running the following command:
 ```
 $ json-server --watch db.json
 ``` 
-7. Open up a different Terminal window and navigate to the Repository's folder
-8. Run the following command:
+8. Open up a different Terminal window and navigate to the Repository's folder
+9. Run the following command:
 ```
 $ npm start
 ```
