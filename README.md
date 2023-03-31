@@ -36,9 +36,9 @@ $ npm start
 
 ## Usage
 
-- Navigate to the Home Page by Clicking on the Home navigation link.
+- Add a new Area within the Areas' page 
 
-![home page](https://user-images.githubusercontent.com/108071188/210832003-d8ec63e6-160d-434b-a968-ac6ea788982b.png)
+![addarea](https://user-images.githubusercontent.com/108071188/229159174-232b257f-1775-477c-9e84-f2b67358d586.png)
 
 - Navigate to Shop by clicking on the Shop navigation link.
 
