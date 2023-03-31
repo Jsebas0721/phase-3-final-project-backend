@@ -40,9 +40,9 @@ $ npm start
 
 ![addarea](https://user-images.githubusercontent.com/108071188/229159174-232b257f-1775-477c-9e84-f2b67358d586.png)
 
-- Navigate to Shop by clicking on the Shop navigation link.
+- Navigate to Open Positions per Area.
 
-![Shop page](https://user-images.githubusercontent.com/108071188/210833592-8735b281-f726-49d3-b1bd-8df0caca58a9.png)
+![navigatetopositions](https://user-images.githubusercontent.com/108071188/229160111-fa5f5e52-ce7f-42cd-b948-9f26fe16b92f.png)
 
 - Add a new frame or Add to Cart.
 
