@@ -3,14 +3,18 @@ class ApplicationController < Sinatra::Base
   
   # Add your routes here
 
-
   get '/areas' do
     areas = Area.all
     areas.to_json(include: :positions)
   end
 
-  
-  
+  post "/areas" do
+    areas = Area.create(
+      area_name: params[:area_name]
+      )
+      areas.to_json
+    end
+    
   post "/positions" do
     positions = Position.create(
       position_name: params[:position_name],
@@ -18,13 +22,6 @@ class ApplicationController < Sinatra::Base
       area_id: params[:area_id]
     )
     positions.to_json
-  end
-
-  post "/areas" do
-    areas = Area.create(
-      area_name: params[:area_name]
-    )
-    areas.to_json
   end
 
   patch "/positions/:id" do
