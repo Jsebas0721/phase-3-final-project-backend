@@ -38,6 +38,7 @@ class ApplicationController < Sinatra::Base
     position.destroy
     position.to_json
   end
+  
 
  
 end
